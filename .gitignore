@@ -1,0 +1,21 @@
+# Node.js / React
+node_modules/
+dist/
+.env
+.env.*
+
+# Java / Spring Boot
+backend/target/
+backend/build/
+.gradle/
+
+# IDE and logs
+.vscode/
+.idea/
+*.log
+
+# Temporary repair files
+backend-broken/
+backend-repair-temp/
+backend-repair-temp2/
+backend-repair.zip
